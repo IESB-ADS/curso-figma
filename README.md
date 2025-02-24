@@ -1,4 +1,4 @@
-# Curso de Figma para ADS (Análise e Desenvolvimento de Sistemas)
+# Curso de Figma para ADS
 ##### Nível: Básico
 ##### Duração: 8 Horas
 ##### Agenda: 
